@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 void zigzag(int n){
+    //if (n==0) return;
     if(n==1){
         cout<<111;
         return;
